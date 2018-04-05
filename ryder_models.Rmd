@@ -1,0 +1,24 @@
+---
+title: "Ryder Models"
+author: "Paul Zuo, Anna O'Malley, Jenny Chen, Yutong Liu"
+date: "4/5/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 1. Data Cleaning
+
+## 2. Data Manipulation
+
+## 3. Data Exploration/Basic Insights
+
+## 4. Fader's CLV Model
+
+## 5. Binary prediction of Retention
+
+## 6. Multiple Regression CLV Prediction
+
+## 7. Regression Tree CLV Prediction
